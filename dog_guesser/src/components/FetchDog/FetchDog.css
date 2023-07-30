@@ -1,0 +1,52 @@
+.imageDogContainer{
+    width: fit-content;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imageDog{
+    width: 500px;
+    border-radius: 10px;
+}
+
+.display{
+    display: initial;
+}
+
+.notDisplay {
+    display: none;
+}
+
+.buttonBreed {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.buttonBreed:hover {
+    background-color: #3e8e41;
+}
+
+.nextButton {
+    background-color: #747974;
+    border: none;
+    color: white;
+    padding: 8px 32px;
+    margin: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 10px;
+    cursor: pointer;
+}
