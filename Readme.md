@@ -2,7 +2,7 @@
 
 ## Pour exécuter le backend
 
-1. Dans le terminal à partir du répertoire courant "/UNBOARED"
+1. Dans le terminal à partir du répertoire courant
 allez dans le répertoire "/backend" avec la commande `cd backend`
 
 2. Installez les dépendances avec la commande `npm install`
@@ -11,7 +11,7 @@ allez dans le répertoire "/backend" avec la commande `cd backend`
 
 ## Pour exécuter le frontend
 
-1. Dans le terminal à partir du répertoire courant "/UNBOARED" allez dans le répertoire "/dog_guesser" avec la commande `cd dog_guesser`
+1. Dans le terminal à partir du répertoire courant allez dans le répertoire "/dog_guesser" avec la commande `cd dog_guesser`
 
 2. Installez les dépendances avec la commande `npm install`
 
